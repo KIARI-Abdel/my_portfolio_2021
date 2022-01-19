@@ -33,7 +33,7 @@ function Resume() {
             <Resumecontent
               title="Junior FullStack Web developer"
               date="January 2021 - Present"
-              compagny="Company: Letellier Developpement"
+              compagny="Company: Real estate and Wealth advisor Company"
               content={[
                   "I started by creating a new windows server, then migrated the website (ASP.Net 4.5.2). I then added FTP and SFTP servers.",
                   "I made the XML uploaded files (from our partners) automatically added to the database, and shown on the website. I was then able to add content and features (calc form for tax exemption depending on the region you are living in, etc.)",
@@ -72,7 +72,7 @@ function Resume() {
               content={[
                   "Learning Web development (front and back).",
                   "End-year project: Backoffice, with an API and secured routes. Using MERN stack (Mongo/Mongoose, Express, React and NodeJS).",
-                "1 week at school, 3 weeks at work (Letellier Developpement)"
+                "1 week at school, 3 weeks at work"
               ]}
             />
             <Resumecontent
